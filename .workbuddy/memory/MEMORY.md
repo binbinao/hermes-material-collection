@@ -22,7 +22,7 @@
 - 04-Hermes-Edge-Inference/ — 边缘推理文档
 - 05-Hermes-Math-Reasoning/ — 数学推理文档
 - 06-对比分析/ — Hermes vs OpenClaw 对比
-- 07-培训课程/ — 培训大纲与资源索引
+- 07-培训课程/ — 开发者培训大纲 + 非技术人员培训大纲（6次×90min，面向PM/运营/设计/PM/HR/架构师）
 
 ## 关键发现（交叉验证结论）
 - Hermes Agent 核心创新：自创建-自改进-自复用的闭环学习（vs OpenClaw 静态技能）
